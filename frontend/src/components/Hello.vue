@@ -15,6 +15,7 @@
       <li>HowTo to interact with the Spring Boot database backend:</li>
       <li><router-link :to="{ name: 'User' }" exact target="_blank">/user</router-link></li>
     </ul>
+    <button class="btn btn-info">Click ass me</button>
   </div>
 </template>
 
