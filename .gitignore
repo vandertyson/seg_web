@@ -42,3 +42,4 @@ selenium-debug.log
 
 #test
 testdb/*
+*.db
